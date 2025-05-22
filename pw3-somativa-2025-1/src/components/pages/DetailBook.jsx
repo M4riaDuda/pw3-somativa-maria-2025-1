@@ -57,7 +57,6 @@ const DetailBook = () => {
                         label='EDITAR'
                         router='/updateBook/'
                         cod_livro={book.cod_livro}
-                        
                     />
 
                     <Button 
